@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <name>Test Level 2</name>
+    <description>This is a test level.</description>
+    <tileset>TilesetWorld1</tileset>
+    <world width="10" height="10">
+        000 000 000 000 000 000 000 000 000 000
+        000 001 001 001 001 001 001 001 001 000
+        000 001 256 001 256 256 256 256 001 000
+        000 001 256 001 256 256 256 256 001 000
+        000 001 256 001 256 256 256 256 001 000
+        000 001 256 256 256 640 001 256 001 000
+        000 001 256 256 256 256 001 256 001 000
+        000 001 256 256 256 256 001 640 001 000
+        000 001 001 001 001 001 001 001 001 000
+        000 000 000 000 000 000 000 000 000 000
+    </world>
+    <entities>
+        <entity type="player" x="3" y="5"/>
+        <entity type="box" x="6" y="4"/>
+        <entity type="box" x="4" y="3"/>
+    </entities>
+</level>

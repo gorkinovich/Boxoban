@@ -1,0 +1,1 @@
+xsd.exe map.xsd /f /c /l:cs /n:Tiled

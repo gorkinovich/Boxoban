@@ -1,0 +1,4 @@
+http://blog.michaelhidalgo.info/2013/02/creating-strong-typed-c-classes-from.html
+
+xsd.exe map.xsd /classes /language:cs /namespace:Tiled
+xsd.exe map.xsd /c /l:cs /n:Tiled

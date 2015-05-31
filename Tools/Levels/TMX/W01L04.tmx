@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="8" height="10" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="Description" value=" "/>
+  <property name="Name" value="Level 4"/>
+ </properties>
+ <tileset firstgid="1" name="TilesetWorld1" tilewidth="16" tileheight="16">
+  <image source="TilesetWorld1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1025" name="Charset" tilewidth="16" tileheight="16">
+  <image source="Charset.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Terrain" width="8" height="10">
+  <data>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="10"/>
+   <tile gid="9"/>
+   <tile gid="9"/>
+   <tile gid="11"/>
+   <tile gid="10"/>
+   <tile gid="9"/>
+   <tile gid="9"/>
+   <tile gid="9"/>
+   <tile gid="6"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="641"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="449"/>
+   <tile gid="641"/>
+   <tile gid="641"/>
+   <tile gid="4"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="4"/>
+   <tile gid="10"/>
+   <tile gid="6"/>
+   <tile gid="449"/>
+   <tile gid="5"/>
+   <tile gid="6"/>
+   <tile gid="449"/>
+   <tile gid="5"/>
+   <tile gid="11"/>
+   <tile gid="4"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="4"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="4"/>
+   <tile gid="4"/>
+   <tile gid="449"/>
+   <tile gid="449"/>
+   <tile gid="7"/>
+   <tile gid="12"/>
+   <tile gid="9"/>
+   <tile gid="13"/>
+   <tile gid="8"/>
+   <tile gid="5"/>
+   <tile gid="9"/>
+   <tile gid="9"/>
+   <tile gid="9"/>
+   <tile gid="11"/>
+   <tile gid="248"/>
+   <tile gid="7"/>
+   <tile gid="8"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="1"/>
+   <tile gid="5"/>
+   <tile gid="9"/>
+   <tile gid="9"/>
+   <tile gid="6"/>
+  </data>
+ </layer>
+ <layer name="Entities" width="8" height="10">
+  <data>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="769"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="769"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="769"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="1025"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+  </data>
+ </layer>
+</map>
