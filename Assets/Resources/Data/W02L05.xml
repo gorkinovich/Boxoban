@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<name>Level 5</name>
+	<description> </description>
+	<tileset>TilesetWorld2</tileset>
+	<world width="12" height="11">
+0143 0061 0061 0061 0061 0147 0061 0144 0041 0040 0042 0000 
+0062 0640 0640 0260 0260 0062 0217 0062 0034 0260 0036 0042 
+0062 0640 0640 0260 0260 0146 0061 0145 0260 0260 0260 0035 
+0062 0640 0640 0260 0260 0260 0260 0260 0260 0260 0260 0035 
+0062 0640 0640 0260 0260 0112 0260 0035 0260 0260 0260 0035 
+0062 0640 0640 0143 0061 0145 0260 0035 0260 0260 0260 0035 
+0146 0147 0061 0148 0260 0260 0260 0035 0260 0260 0260 0035 
+0000 0062 0249 0062 0260 0260 0260 0034 0260 0260 0260 0035 
+0000 0146 0061 0145 0260 0260 0260 0260 0260 0260 0260 0035 
+0000 0000 0000 0035 0260 0260 0038 0039 0260 0260 0260 0035 
+0000 0000 0000 0036 0040 0040 0040 0040 0040 0040 0040 0037 
+</world>
+	<entities>
+		<entity type="player" x="9" y="1" />
+		<entity type="box" x="8" y="3" />
+		<entity type="box" x="9" y="3" />
+		<entity type="box" x="9" y="4" />
+		<entity type="box" x="9" y="5" />
+		<entity type="box" x="5" y="6" />
+		<entity type="box" x="8" y="6" />
+		<entity type="box" x="6" y="7" />
+		<entity type="box" x="9" y="7" />
+		<entity type="box" x="5" y="8" />
+		<entity type="box" x="8" y="8" />
+	</entities>
+</level>

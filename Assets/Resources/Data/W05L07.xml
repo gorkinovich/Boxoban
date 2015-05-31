@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<name>Level 7</name>
+	<description> </description>
+	<tileset>TilesetWorld5</tileset>
+	<world width="11" height="11">
+0000 0000 0000 0000 0000 0000 0009 0008 0008 0010 0000 
+0009 0008 0008 0008 0008 0008 0005 0356 0356 0003 0000 
+0003 0356 0356 0356 0356 0356 0356 0356 0356 0003 0000 
+0003 0356 0356 0356 0356 0111 0113 0356 0356 0003 0000 
+0004 0010 0356 0110 0640 0640 0640 0250 0356 0003 0000 
+0000 0003 0356 0356 0640 0640 0640 0356 0356 0003 0000 
+0000 0003 0356 0217 0640 0356 0640 0112 0356 0004 0010 
+0000 0003 0356 0356 0356 0110 0356 0114 0356 0356 0003 
+0000 0003 0356 0356 0356 0356 0356 0356 0356 0356 0003 
+0000 0003 0356 0356 0009 0008 0008 0008 0008 0008 0005 
+0000 0004 0008 0008 0005 0000 0000 0000 0000 0000 0000 
+</world>
+	<entities>
+		<entity type="player" x="8" y="1" />
+		<entity type="box" x="6" y="2" />
+		<entity type="box" x="4" y="3" />
+		<entity type="box" x="8" y="3" />
+		<entity type="box" x="2" y="4" />
+		<entity type="box" x="3" y="5" />
+		<entity type="box" x="8" y="7" />
+		<entity type="box" x="2" y="8" />
+		<entity type="box" x="5" y="8" />
+	</entities>
+</level>

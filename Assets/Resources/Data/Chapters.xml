@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<chapters>
+  <chapter name="World 1">
+    <level>W01L01</level>
+    <level>W01L02</level>
+    <level>W01L03</level>
+    <level>W01L04</level>
+    <level>W01L05</level>
+    <level>W01L06</level>
+    <level>W01L07</level>
+    <level>W01L08</level>
+    <level>W01L09</level>
+    <level>W01L10</level>
+  </chapter>
+  <chapter name="World 2">
+    <level>W02L01</level>
+    <level>W02L02</level>
+    <level>W02L03</level>
+    <level>W02L04</level>
+    <level>W02L05</level>
+    <level>W02L06</level>
+    <level>W02L07</level>
+    <level>W02L08</level>
+    <level>W02L09</level>
+    <level>W02L10</level>
+  </chapter>
+  <chapter name="World 3">
+    <level>W03L01</level>
+    <level>W03L02</level>
+    <level>W03L03</level>
+    <level>W03L04</level>
+    <level>W03L05</level>
+    <level>W03L06</level>
+    <level>W03L07</level>
+    <level>W03L08</level>
+    <level>W03L09</level>
+    <level>W03L10</level>
+  </chapter>
+  <chapter name="World 4">
+    <level>W04L01</level>
+    <level>W04L02</level>
+    <level>W04L03</level>
+    <level>W04L04</level>
+    <level>W04L05</level>
+    <level>W04L06</level>
+    <level>W04L07</level>
+    <level>W04L08</level>
+    <level>W04L09</level>
+    <level>W04L10</level>
+  </chapter>
+  <chapter name="World 5">
+    <level>W05L01</level>
+    <level>W05L02</level>
+    <level>W05L03</level>
+    <level>W05L04</level>
+    <level>W05L05</level>
+    <level>W05L06</level>
+    <level>W05L07</level>
+    <level>W05L08</level>
+    <level>W05L09</level>
+    <level>W05L10</level>
+  </chapter>
+  <chapter name="World 6">
+    <level>W06L01</level>
+    <level>W06L02</level>
+    <level>W06L03</level>
+    <level>W06L04</level>
+    <level>W06L05</level>
+    <level>W06L06</level>
+    <level>W06L07</level>
+    <level>W06L08</level>
+    <level>W06L09</level>
+    <level>W06L10</level>
+  </chapter>
+  <chapter name="World 7">
+    <level>W07L01</level>
+    <level>W07L02</level>
+    <level>W07L03</level>
+    <level>W07L04</level>
+    <level>W07L05</level>
+    <level>W07L06</level>
+    <level>W07L07</level>
+    <level>W07L08</level>
+    <level>W07L09</level>
+    <level>W07L10</level>
+  </chapter>
+  <chapter name="World 8">
+    <level>W08L01</level>
+    <level>W08L02</level>
+    <level>W08L03</level>
+    <level>W08L04</level>
+    <level>W08L05</level>
+    <level>W08L06</level>
+    <level>W08L07</level>
+    <level>W08L08</level>
+    <level>W08L09</level>
+    <level>W08L10</level>
+  </chapter>
+  <chapter name="World 9">
+    <level>W09L01</level>
+    <level>W09L02</level>
+    <level>W09L03</level>
+    <level>W09L04</level>
+    <level>W09L05</level>
+    <level>W09L06</level>
+    <level>W09L07</level>
+    <level>W09L08</level>
+    <level>W09L09</level>
+    <level>W09L10</level>
+  </chapter>
+  <chapter name="World 10">
+    <level>W10L01</level>
+    <level>W10L02</level>
+    <level>W10L03</level>
+    <level>W10L04</level>
+    <level>W10L05</level>
+    <level>W10L06</level>
+    <level>W10L07</level>
+    <level>W10L08</level>
+    <level>W10L09</level>
+    <level>W10L10</level>
+  </chapter>
+</chapters>

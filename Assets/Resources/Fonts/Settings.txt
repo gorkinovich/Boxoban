@@ -1,0 +1,4 @@
+Font Size:          16
+Rendering Mode:     Hinted Raster
+Character:          Dynamic
+Incl. Font Data:    true

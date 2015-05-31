@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<name>Level 4</name>
+	<description> </description>
+	<tileset>TilesetWorld1</tileset>
+	<world width="8" height="10">
+0000 0000 0000 0000 0009 0008 0008 0010 
+0009 0008 0008 0008 0005 0448 0448 0003 
+0003 0448 0448 0448 0640 0448 0448 0003 
+0003 0448 0640 0640 0003 0448 0448 0003 
+0009 0005 0448 0004 0005 0448 0004 0010 
+0003 0448 0448 0448 0448 0448 0448 0003 
+0003 0448 0448 0003 0448 0448 0448 0003 
+0003 0448 0448 0006 0011 0008 0012 0007 
+0004 0008 0008 0008 0010 0247 0006 0007 
+0000 0000 0000 0000 0004 0008 0008 0005 
+</world>
+	<entities>
+		<entity type="box" x="4" y="2" />
+		<entity type="box" x="2" y="3" />
+		<entity type="box" x="2" y="5" />
+		<entity type="player" x="2" y="6" />
+	</entities>
+</level>
