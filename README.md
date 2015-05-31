@@ -1,4 +1,4 @@
-# Boxoban
+Ôªø# Boxoban
 A retro pixel-art puzzle 2D game made with Unity 4.5.
 
 Web site in Spanish: https://boxoban.wordpress.com/
@@ -10,6 +10,6 @@ Download the game: <br/>
 + Mac OSX: http://bit.ly/1AFMVRV
 
 ## Credits
-+ Gorka Su·rez GarcÌa: programming, art & design <br/>
++ Gorka Su√°rez Garc√≠a: programming, art & design <br/>
 + Alberto Gil de la Fuente: art & design <br/>
-+ Iv·n Manuel Laclaustra Yebes: music & sound
++ Iv√°n Manuel Laclaustra Yebes: music & sound
