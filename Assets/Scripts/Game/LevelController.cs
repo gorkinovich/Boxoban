@@ -181,7 +181,7 @@ public class LevelController : MonoBehaviour {
             playerPosition.x += (CoreManager.TILE_WIDTH / 2.0f) / CoreManager.PIXEL_TO_UNITS;
             playerPosition.y -= (CoreManager.TILE_WIDTH / 2.0f) / CoreManager.PIXEL_TO_UNITS;
             // Get the offset between the player and the mouse coordinates:
-            Vector3 playerScreenPosition = camera.camera.WorldToScreenPoint(playerPosition);
+            Vector3 playerScreenPosition = camera.GetComponent<Camera>().WorldToScreenPoint(playerPosition);
             var offset = lastMousePosition - playerScreenPosition;
             // Check wich side have been selected:
             MoveDirection direction = MoveDirection.None;

@@ -183,14 +183,14 @@ public class PlayerController : EntityController {
 
         // Set the "on exit cell" event handler:
         onExitCell = () => {
-            audio.PlayOneShot(walkSound, core.SoundVolume);
+            GetComponent<AudioSource>().PlayOneShot(walkSound, core.SoundVolume);
         };
 
         // Set the "on enter cell" event handler:
         onEnterCell = () => {
             // Stop the walk sound:
-            if (audio.isPlaying) {
-                audio.loop = false;
+            if (GetComponent<AudioSource>().isPlaying) {
+                GetComponent<AudioSource>().loop = false;
             }
             // Changes the animation state of the player:
             ShowIdle();

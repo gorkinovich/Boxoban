@@ -132,7 +132,7 @@ public class BoxController : EntityController {
             checkCurrentCell();
         };
         onExitCell = () => {
-            audio.PlayOneShot(pushSound, core.SoundVolume);
+            GetComponent<AudioSource>().PlayOneShot(pushSound, core.SoundVolume);
             IsAtDestination = false;
             spriteRenderer.sprite = normalSprite;
         };
@@ -157,7 +157,7 @@ public class BoxController : EntityController {
                     IsAtDestination = true;
                     spriteRenderer.sprite = destinationSprite;
                     if (!core.CheckVictory()) {
-                        audio.PlayOneShot(settledSound, core.SoundVolume);
+                        GetComponent<AudioSource>().PlayOneShot(settledSound, core.SoundVolume);
                     }
                 } else {
                     IsAtDestination = false;
@@ -169,7 +169,7 @@ public class BoxController : EntityController {
                 IsAtDestination = true;
                 spriteRenderer.sprite = destinationSprite;
                 if (!core.CheckVictory()) {
-                    audio.PlayOneShot(settledSound, core.SoundVolume);
+                    GetComponent<AudioSource>().PlayOneShot(settledSound, core.SoundVolume);
                 }
             }
         }

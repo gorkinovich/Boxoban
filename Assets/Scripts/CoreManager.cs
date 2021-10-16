@@ -470,7 +470,7 @@ public class CoreManager {
         PlayerPrefs.Save();
 
         // Change the volume of the current music:
-        var audio = Camera.audio;
+        var audio = Camera.GetComponent<AudioSource>();
         if (audio != null && audio.isPlaying) {
             audio.volume = MusicVolume;
         }
@@ -495,7 +495,7 @@ public class CoreManager {
         MusicVolume = Math.Max(0.0f, Math.Min(1.0f, musicVolume));
 
         // Change the volume of the current music:
-        var audio = Camera.audio;
+        var audio = Camera.GetComponent<AudioSource>();
         if (audio != null && audio.isPlaying) {
             audio.volume = MusicVolume;
         }
@@ -1260,7 +1260,7 @@ public class CoreManager {
     /// </summary>
     /// <returns>If the music is playing or not.</returns>
     public bool IsMusicPlaying() {
-        var audio = Camera.audio;
+        var audio = Camera.GetComponent<AudioSource>();
         if (audio != null) {
             return audio.isPlaying;
         }
@@ -1277,7 +1277,7 @@ public class CoreManager {
     /// <param name="path">The path of the file.</param>
     /// <param name="loop">The loop flag.</param>
     public void PlayMusic(string path, bool loop = true) {
-        var audio = Camera.audio;
+        var audio = Camera.GetComponent<AudioSource>();
         if (audio != null) {
             audio.clip = Resources.Load<AudioClip>(path);
             audio.loop = loop;
